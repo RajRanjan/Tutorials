@@ -8,6 +8,8 @@ numbers
 booleans
 Arrays
 
+---
+
 Object Literals
 -By explaining these few fundamental types, we have introduced you to object literals. The most common way of creating an object in JavaScript is using the object notation, {}. Objects can be extended arbitrarily at runtime.
 -a nonexistent property on a object or variable returns undefined
