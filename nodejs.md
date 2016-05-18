@@ -97,3 +97,19 @@ awesome2.printMessage(); // hi
 // awesome1 is unaffected by awesome2
 awesome1.printMessage(); // hello
 The great thing about this example is that it is a simple pattern to understand because it only utilizes closures, first-class functions, and object literals—concepts that are already familiar to you and that we covered extensively in the beginning of this chapter.
+
+
+
+
+
+
+## Process
+
+* process.argv
+* process.nextTick
+
+
+## Events 
+
+* Due to this evented nature of Node. js, it has first-class support for an event subscription/unsubscription pattern. This pattern is very similar to the way you would handle events using JavaScript in the browser.
+* 
